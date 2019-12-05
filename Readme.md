@@ -1,0 +1,1 @@
+插件已经不适用与FairyGUI-Editor5.x.x版本，有需要的伙伴请到FairyGUI官方QQ群获取帮助！
